@@ -2,15 +2,6 @@
 
 Um aplicativo desenvolvido com Flutter que permite ao usuário pesquisar e compartilhar GIFs obtidos do site GIPHY.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ao abrir o aplicativo, será carregada uma lista com os 20 GIFs mais visualizados do GIPHY. Através da barra de pesquisa é possível inserir palavras-chave para filtrar a busca. Por exemplo: ao pesquisar por "gatos", o aplicativo mostrará GIFs relacionados a gatos.
