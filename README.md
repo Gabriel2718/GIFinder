@@ -9,10 +9,10 @@ Através da barra de pesquisa é possível inserir palavras-chave para filtrar a
 Se não houver texto na barra de pesquisa, será carregada uma lista com apenas 20 GIFs. Caso contrário, será carregada uma lista com 19 GIFs relacionados à pesquisa e um botão para atualizar a lista com novos GIFs.
 OBS: Não há limite para quantas vezes o usuário pode atualizar a lista.
 
-## Plugins Utilizados
+## Bibliotecas de Terceiros Utilizadas
 
-- flutter_lints: ^5.0.0
-- share_plus: ^10.1.4
-- transparent_image: ^2.0.1
-- http: ^1.3.0
-- flutter_launcher_icons: ^0.14.3
+- flutter_lints v5.0.0
+- share_plus v10.1.4
+- transparent_image v2.0.1
+- http v1.3.0
+- flutter_launcher_icons v0.14.3
